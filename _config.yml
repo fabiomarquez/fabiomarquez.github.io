@@ -1,11 +1,11 @@
 ### Site Settings ###
 title               : Fabio Marquez
 description         : >-
-                      I turn coffee :coffee: into code,
+                      I turns coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
 baseurl             : ""
-repository          : fabiomarquez/fabiomarquez.github.io  
+repository          : 
 remote_theme        : 
 
 
