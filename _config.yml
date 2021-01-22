@@ -1,6 +1,7 @@
 ### Site Settings ###
 title               : Fabio Marquez
 description         : >-
+                      Oi! Me chamo **Fábio Júnior**
                       Analista de Dados apaixonado por Tecnologia e Inovação.
 baseurl             : ""
 repository          : 
@@ -23,17 +24,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Fábio Marquez de Carvalho Júnior
   image             : https://media-exp1.licdn.com/dms/image/C5603AQHNyZ1Vc-SrgQ/profile-displayphoto-shrink_200_200/0/1610496175093?e=1616630400&v=beta&t=fe6A7xjQsSTrcPI-RpkhXpMejQKsnFWS9HWWQmHwkBM
 # behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : fabiomarquezc@gmail.com
  # facebook          : your_username
-  github            : your_username
+  github            : fabiomarquez
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : fabio-marquez
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
@@ -54,7 +55,7 @@ permalink: /blog/:title
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: /portfolio/:name
 
 
 
