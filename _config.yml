@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Fabio Marquez
 description         : >-
-                      I turns coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Analista de Dados apaixonado por Tecnologia e Inovação.
 baseurl             : ""
 repository          : 
 remote_theme        : 
