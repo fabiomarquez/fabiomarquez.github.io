@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Fábio Marquez
 description         : >-
-                      Olá! Eu me chamo Fábio Marquez e este é o meu site.
+                      Olá, seja bem-vind@! Conheça [meus projetos](https://fabiomarquez.github.io/portfolio/ "Portfolio") ou explore [minhas publicações](https://fabiomarquez.github.io/blog/ "Blog").
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : 
 remote_theme        : 
@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Fábio Júnior
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://instagram.fgyn2-1.fna.fbcdn.net/v/t51.2885-19/s150x150/69362050_2474625432626257_6351569496146182144_n.jpg?_nc_ht=instagram.fgyn2-1.fna.fbcdn.net&_nc_ohc=QUCuIdzg9ZUAX_N91On&tp=1&oh=befe82415fa49c2b103886c226cb6b41&oe=603A2A12
 # behance           : your_username
 # dribbble          : your_username
   email             : fabiomarquezc@gmail.com
