@@ -1,16 +1,14 @@
 ---
-title: Criando sua conta 
+title: Criando sua conta de Desenvolvedor Microsoft
 tags: [Microsoft, Power Platform]
 style: 
 color: 
-description: Descubra como você pode criar uma conta de desenvolvedor Microsoft para explorar livremente todos os recursos que a empresa oferece.
+description: Descubra como você pode criar uma conta de desenvolvedor Microsoft para explorar livremente todos os recursos do pacote Office 365.
 ---
 
-A few months ago I was offered (and have since accepted) a full time offer to work at Facebook in San Francisco and in that time I have been reflecting on my own usage of social media and the amount of value it has added to my life.
+Quando estamos apredendo coisas novas, uma das melhores formas de consolidar o aprendizado é praticando aquilo que foi estudado. A prática deliberada fortalece as conexões de nosso cérebro, fazendo com que "os caminhos" por onde o pensamento passa tornem-se duráveis e com isso acessíveis novamente no futuro. Quando se trata de desenvolver o conhecimento em ferramentas como o Power BI ou o Power Apps, este pensamento segue válido, porém muitas vezes as pessoas não tem condições de bancar um ambiente de treino ou então o ambiente de suas empresas não permite que elas explorem aquilo que estão aprendendo. Sorte a nossa que a Microsoft tem uma solução fantástica para este problema: o **Microsoft 365 Developer Program**.
 
-A common trend I’ve been seeing is the urgency to delete all your social media IMMEDIATELY or even go completely off-the-grid to avoid the unimaginable long-term implications of having your attention and personal data potentially manipulated and abused. I don’t think that we can thrive in today’s world without utilizing the platforms that allow us such a dense level of interconnectivity. I’m not saying that things couldn’t be engineered better; what I am saying however, is that we can take control of how these platforms influence us and in a sense, take control of our own evolution.
-
-Anyways, here are five things I’ve done which have allowed me to be a participant in the digital world, but not have my attention micromanaged:
+Este programa disponibilizado pela Microsoft é uma conta em que podemos explorar o plano E5 do pacote Office por ...
 
 ## 1. Unsubscribe from irrelevant emails
 
