@@ -1,1 +1,7 @@
-https://app.powerbi.com/view?r=eyJrIjoiYmY1NWE0OGEtYzE1NC00YzIyLTk3MmYtMWJmZGFkNTIxNDI0IiwidCI6ImY1OTNhMTg1LWZlYWEtNDk4ZS1iM2YyLTNjYTZkOTdjNDhjMyJ9
+---
+name: Case - Estágio Syngenta
+tools: [Power BI, Dashboard]
+image: https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/caseestagio.png?raw=true
+description: Dashboard criado para participar do processo seletivo de Estágio em BI na Syngenta.
+external_url: https://app.powerbi.com/view?r=eyJrIjoiYmY1NWE0OGEtYzE1NC00YzIyLTk3MmYtMWJmZGFkNTIxNDI0IiwidCI6ImY1OTNhMTg1LWZlYWEtNDk4ZS1iM2YyLTNjYTZkOTdjNDhjMyJ9
+---
