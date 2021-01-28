@@ -12,4 +12,4 @@ Este foi um projeto que do curso ....
 
 ![preview](https://app.powerbi.com/view?r=eyJrIjoiMjFkNjI1MTgtMmM0OC00NTFhLWExZTEtMmZlMThkNWUwNjRmIiwidCI6ImEyYzBkNjE5LWQ2NWMtNGNjYi1hNzU3LTk3N2FiYjgxNWQzNCJ9&pageName=ReportSection4a806398ad360c2883dc)
 
-<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjFkNjI1MTgtMmM0OC00NTFhLWExZTEtMmZlMThkNWUwNjRmIiwidCI6ImEyYzBkNjE5LWQ2NWMtNGNjYi1hNzU3LTk3N2FiYjgxNWQzNCJ9&pageName=ReportSection4a806398ad360c2883dc" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1200" height="747" src="https://app.powerbi.com/view?r=eyJrIjoiMjFkNjI1MTgtMmM0OC00NTFhLWExZTEtMmZlMThkNWUwNjRmIiwidCI6ImEyYzBkNjE5LWQ2NWMtNGNjYi1hNzU3LTk3N2FiYjgxNWQzNCJ9&pageName=ReportSection4a806398ad360c2883dc" frameborder="0" allowFullScreen="true"></iframe>
