@@ -1,13 +1,12 @@
 ---
 name: The Movies Project
 tools: [C#, XML, WPF]
+layout: default
 image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
 description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
 ---
 
-<link rel="stylesheet" href={{ "/assets/css/style.css" | relative_url }}>
-
-# The Movies Project - Alterado2
+# The Movies Project - Alterado3
 
 The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
 
