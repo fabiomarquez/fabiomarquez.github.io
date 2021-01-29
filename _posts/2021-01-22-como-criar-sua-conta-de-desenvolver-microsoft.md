@@ -12,47 +12,35 @@ Quando se trata de desenvolver o conhecimento em ferramentas como o Power BI ou 
 
 Este programa disponibilizado pela Microsoft é uma conta em que podemos explorar o plano E5 do pacote Office por 90 dias, mas se formos usando esta conta especial, elá sempre será renovada por mais 90 dias.
 
+## 1. Criando uma conta de desenvolvedor
+O primeiro passo é acessar o site do [Microsoft 365 Dev Center](https://aka.ms/M365DevAccount), lá encontramos todas as informações sobre o programa. Clicando no botão 'Join Now', será preciso inserir uma conta Microsoft. Caso não tenha, basta clicar no botão 'Create one!'.
 
+** Foto 1**
 
-## 1. Unsubscribe from irrelevant emails
+Nas próximas 3 telas, você fara um cadastro simples, informando país de origem, qual o motivo da criação da conta e quais recursos de ajuda você gostaria de receber, qualquer opção será a correta.
 
-Inbox-zero isn’t a new idea but it’s infinitely more difficult to achieve this if you’re bombarded with emails from random retailers offering coupons and one-in-a-lifetime deals you’re never going to use.
+## 2. Criando o domínio
 
-A simple way to de-clutter your inbox is to look at each email you receive from a subscription and if it’s not immediately relevant (or will be in the foreseeable future), just scroll to the bottom and hit that unsubscribe button. Over time you’ll receive less and less irrelevant emails and this will naturally translate into less stress in the back of your mind.
+Com o cadastro feito, será preciso agora definir o seu domínio. Clique no botão 'SET UP E5 SUBSCRIPTION'
 
-And for those subscriptions and newsletters that you do want to keep, Unroll.me is a great tool I’ve used to manage the amount of content I see in my inbox. It allows you to wrap all relevant subscriptions into a daily newsletter that you see once and can tackle at your own leisure (it even allows you to unsubscribe directly from their platform!)
+** Foto 2 **
 
-## 2. Unfollow people on social media
+Nesta tela, você define uma conta master e qual o seu domínio. Como estamos em um ambiente de testes, todos os domínios são seguidos pelo nome onmicrosoft.
 
-As you progress through school, jobs, projects, and whatever else you devote your time to, you tend to meet a lot of people who you may add on Facebook, follow on Instagram, but never develop a real relationship with. These acquaintances bloat your feeds and may cause you to miss out on important things that happen to those in your life who do matter.
+Para confirmar, é preciso também informar um número de celular válido para receber um SMS de validação.
 
-What I have done is unfollow (or mute) the people that I don’t spend time with in person or plan to in the future. This includes brands, groups, events or influencers who I don’t feel are genuinely inspiring me. The beauty of this is that you are freeing up more time and mental space to interact with the content and people who you truly do want to invest in.
+** Foto 3 **
 
-If you don’t want to be dramatic but still want more manageable social media feeds, the mute feature does thankfully exist. This allows you to mute someone’s posts, stories, and other notifications without explicitly unfollowing them and not tarnishing your (probably nonexistent) relationship with them.
+Lembrando que após termos o domínio finalizado, pode-se criar até 25 outras contas com planos E5 atreladas (!!!).
 
-## 3. Take occasional social media purges
+## 3. You're all set!
 
-It’s no secret that social media messes with the reward circuitry in your brain. One of the best ways to see just how it works is to take a social media purge where you commit to not using it for a certain amount of time. I’ve been surprised at how reflexively I reach for my phone and even more surprised at the free time and mental clarity I have after a couple days of adjusting.
+Finalizando a construção do domínio, já podemos explorar todas as funcionalidades da assinatura E5.
 
-In the past I’ve experimented with social media detoxes ranging from days to weeks and have found that the best strategy to avoid the temptation is to just delete the apps and not re-download until your purge is over. Most of the time you have an urge to check something, it’s simply a reflex and you won’t follow through since downloading the app again will take time and you will have caught yourself by then.
+Podemos nos tornar usuários PRO do serviço do Power BI Online e criar workspaces novos, explorar recursos premium do Power Apps e Power Automate, explorar o painel de administração do Azure Active Directory, criando contas e atribuindo licenças, criar, excluir e recriar grupos de usuário e muito mais!
 
-Another strategy, courtesy of Kenton Prescott is to enact a recurring purge, where you keep your phone in airplane mode (or even Do Not Disturb) for some amount of hours a day, limiting the time you spend catching up on notifications. The idea is that everyone can wait a few hours for your attention, even in the case of emergencies.
+** Foto 4**
 
-## 4. Turn off notifications for non-essential things
+Lembrando que caso você for explorando os recursos da conta, os 90 dias serão automaticamente renovados por mais 90 dias.
 
-This one is pretty simple, just turn off notifications for things that are not essential. Every time your phone or wearable buzzes, you’re losing precious mental bandwidth which can take up to 23 minutes to get back!
-
-In similar fashion to the previous steps, this takes some time and conscious effort daily where you take note of all notifications you get, evaluate if each one is worth the time, and turn off as necessary.
-
-## 5. Learn how to use built in tools
-
-One of my favorite features on my phone is Do Not Disturb. It allows you to silence all non-critical notifications for an indefinite amount of time. This is what I use when I’m working on school work, personal projects, or even this article. On both iOS and Android, you’re given fairly granular control over what is considered critical so you can pick and choose what is worth the focus lost from a distraction.
-
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*MAeS-4fEc0Y7T4VB.jpg" caption="iOS" %}
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*nF_H2-8oTY7C0a54.png" caption="Android" %}
-
-Apple and Google also fairly recently rolled out time management tools which allow the user to be restricted from certain applications after a given amount of use. This really helps to add an extra layer of discipline if you’re trying to build the habit of using your phone less.
-
-Minimalism isn’t a philosophy that demands you to sell everything you own, wear the same outfit for the rest of your life, and live out of your van. Rather, it’s taking a hard look at everything in your life and determining whether something truly provides happiness for you. Digital Minimalism is a subset of this way of thinking and is a philosophy that has allowed me to work in tech and be an active participant of social media, but also maintain my own level of free thinking and choose what I focus on.
-
-I hope this has helped at least one person out there better manage their digital engagement. When I was first starting my foray into this way of thinking, this documentary by Matt D'Avella really helped me understand what minimalism was all about and is something I’d recommend if you’d like to learn more!
+Para ajudar no aprendizado de toda a plataforma, a própria Microsoft disponibiliza sample packs que podem ser instalados logo após a conclusão do domínio.
