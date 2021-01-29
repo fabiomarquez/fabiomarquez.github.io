@@ -15,7 +15,7 @@ Este programa disponibilizado pela Microsoft é uma conta em que podemos explora
 ## 1. Criando uma conta de desenvolvedor
 O primeiro passo é acessar o site do [Microsoft 365 Dev Center](https://aka.ms/M365DevAccount), lá encontramos todas as informações sobre o programa. Clicando no botão 'Join Now', será preciso inserir uma conta Microsoft. Caso não tenha, basta clicar no botão 'Create one!'.
 
-** Foto 1**
+![](https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/1-M365.png?raw=true)
 
 Nas próximas 3 telas, você fara um cadastro simples, informando país de origem, qual o motivo da criação da conta e quais recursos de ajuda você gostaria de receber, qualquer opção será a correta.
 
@@ -23,13 +23,13 @@ Nas próximas 3 telas, você fara um cadastro simples, informando país de orige
 
 Com o cadastro feito, será preciso agora definir o seu domínio. Clique no botão 'SET UP E5 SUBSCRIPTION'
 
-** Foto 2 **
+![](https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/2-CriandoDominio.png?raw=true)
 
 Nesta tela, você define uma conta master e qual o seu domínio. Como estamos em um ambiente de testes, todos os domínios são seguidos pelo nome onmicrosoft.
 
 Para confirmar, é preciso também informar um número de celular válido para receber um SMS de validação.
 
-** Foto 3 **
+![](https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/3-CriandoDominio.png?raw=true)
 
 Lembrando que após termos o domínio finalizado, pode-se criar até 25 outras contas com planos E5 atreladas (!!!).
 
@@ -39,7 +39,7 @@ Finalizando a construção do domínio, já podemos explorar todas as funcionali
 
 Podemos nos tornar usuários PRO do serviço do Power BI Online e criar workspaces novos, explorar recursos premium do Power Apps e Power Automate, explorar o painel de administração do Azure Active Directory, criando contas e atribuindo licenças, criar, excluir e recriar grupos de usuário e muito mais!
 
-** Foto 4**
+![](https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/3-AjustandoDominio.png?raw=true)
 
 Lembrando que caso você for explorando os recursos da conta, os 90 dias serão automaticamente renovados por mais 90 dias.
 
