@@ -19,15 +19,12 @@ O primeiro passo é acessar o site do [Microsoft 365 Dev Center](https://aka.ms/
 
 Nas próximas 3 telas, você fara um cadastro simples, informando país de origem, qual o motivo da criação da conta e quais recursos de ajuda você gostaria de receber, qualquer opção será a correta.
 
-
-{% raw %}
 {% capture carousel_images %}
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/2-CriandoConta.png?raw=true
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/3-CriandoConta.png?raw=true
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/4-CriandoConta.png?raw=true
 {% endcapture %}
 {% include elements/carousel.html %}
-{% endraw %}
 
 ## 2. Criando o domínio
 
