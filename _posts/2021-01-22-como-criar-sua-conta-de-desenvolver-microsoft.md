@@ -23,7 +23,7 @@ Nas próximas 3 telas, você fara um cadastro simples, informando país de orige
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/2-CriandoConta.png?raw=true
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/3-CriandoConta.png?raw=true
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/4-CriandoConta.png?raw=true
-{% include /_includes/elements/carousel.html %}
+{% include /elements/carousel.html %}
 
 ## 2. Criando o domínio
 
