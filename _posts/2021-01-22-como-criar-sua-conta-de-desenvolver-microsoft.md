@@ -19,9 +19,15 @@ O primeiro passo é acessar o site do [Microsoft 365 Dev Center](https://aka.ms/
 
 Nas próximas 3 telas, você fara um cadastro simples, informando país de origem, qual o motivo da criação da conta e quais recursos de ajuda você gostaria de receber, qualquer opção será a correta.
 
+{% capture carousel_images %}
+https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/2-CriandoConta.png?raw=true
+https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/3-CriandoConta.png?raw=true
+https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/4-CriandoConta.png?raw=true
+{% include elements/carousel.html %}
+
 ## 2. Criando o domínio
 
-Com o cadastro feito, será preciso agora definir o seu domínio. Clique no botão 'SET UP E5 SUBSCRIPTION'
+Com o cadastro feito, será preciso agora definir o seu domínio. Clique no botão **SET UP E5 SUBSCRIPTION**.
 
 ![](https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/2-CriandoDominio.png?raw=true)
 
@@ -31,7 +37,7 @@ Para confirmar, é preciso também informar um número de celular válido para r
 
 ![](https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/3-CriandoDominio.png?raw=true)
 
-Lembrando que após termos o domínio finalizado, pode-se criar até 25 outras contas com planos E5 atreladas (!!!).
+Lembrando que após termos o domínio finalizado, pode-se criar até **25 outras contas com planos E5 atreladas (!!!)**.
 
 ## 3. You're all set!
 
@@ -41,6 +47,6 @@ Podemos nos tornar usuários PRO do serviço do Power BI Online e criar workspac
 
 ![](https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/3-AjustandoDominio.png?raw=true)
 
-Lembrando que caso você for explorando os recursos da conta, os 90 dias serão automaticamente renovados por mais 90 dias.
+Lembrando que caso você for explorando os recursos da conta, os 90 dias serão automaticamente renovados sempre por mais 90 dias.
 
 Para ajudar no aprendizado de toda a plataforma, a própria Microsoft disponibiliza sample packs que podem ser instalados logo após a conclusão do domínio.
