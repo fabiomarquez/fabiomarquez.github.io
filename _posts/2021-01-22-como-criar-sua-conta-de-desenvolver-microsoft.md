@@ -6,7 +6,7 @@ color:
 description: Descubra como você pode criar uma conta de desenvolvedor Microsoft para explorar livremente todos os recursos do pacote Office 365.
 ---
 
-Quando estamos apredendo coisas novas, uma das melhores formas de consolidar o aprendizado é praticando aquilo que foi estudado. A prática deliberada fortalece as conexões de nosso cérebro, fazendo com que "os caminhos" por onde o pensamento passa tornem-se duráveis e com isso acessíveis novamente no futuro.
+Quando estamos apredendo coisas novas, uma das melhores formas de consolidar o aprendizado é **praticando aquilo que foi estudado**. A prática deliberada fortalece as conexões de nosso cérebro, fazendo com que "os caminhos" por onde o pensamento passa tornem-se duráveis e com isso acessíveis novamente no futuro.
 
 Quando se trata de desenvolver o conhecimento em ferramentas como o Power BI ou o Power Apps, este pensamento segue válido, porém muitas vezes as pessoas não tem condições de bancar um ambiente de treino ou então o ambiente de suas empresas não permite que elas explorem aquilo que estão aprendendo. Sorte a nossa que a Microsoft tem uma solução fantástica para este problema: o **Microsoft 365 Developer Program**.
 
@@ -19,12 +19,15 @@ O primeiro passo é acessar o site do [Microsoft 365 Dev Center](https://aka.ms/
 
 Nas próximas 3 telas, você fara um cadastro simples, informando país de origem, qual o motivo da criação da conta e quais recursos de ajuda você gostaria de receber, qualquer opção será a correta.
 
+
+{% raw %}
 {% capture carousel_images %}
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/2-CriandoConta.png?raw=true
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/3-CriandoConta.png?raw=true
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/4-CriandoConta.png?raw=true
-{% include /elements/carousel.html %}
 {% endcapture %}
+{% include elements/carousel.html %}
+{% endraw %}
 
 ## 2. Criando o domínio
 
