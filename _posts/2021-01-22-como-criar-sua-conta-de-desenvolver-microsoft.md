@@ -24,6 +24,7 @@ https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/post
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/3-CriandoConta.png?raw=true
 https://github.com/fabiomarquez/fabiomarquez.github.io/blob/main/assets/img/posts/conta-microsoft/4-CriandoConta.png?raw=true
 {% include /elements/carousel.html %}
+{% endcapture %}
 
 ## 2. Criando o domínio
 
