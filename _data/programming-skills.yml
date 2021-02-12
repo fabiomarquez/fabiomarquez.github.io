@@ -1,11 +1,15 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
+- name: Power BI
+  percentage: 80
+  color: yellow
 
-- name: Go
+- name: Qlik Sense
   percentage: 80
   color:
 
-- name: Python
+- name: Pentaho
   percentage: 70
-  color: dark
+  color: 
+  
+- name: Alteryx
+  percentage: 70
+  color: blue
