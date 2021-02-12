@@ -1,8 +1,7 @@
 - title: Estágio em Business Intelligence, Syngenta Crop Protection
   from: 2020
   to: atual
-  description: >
-    Suporte à estratégia de marketing da Unidade Comercial Cerrado.
+  description:   Suporte à estratégia de marketing da Unidade Comercial Cerrado.
                  Desenvolvimento de Dashboards em Qlik Sense e Power BI com objetivo de acompanhar as estratégias da empresa e identificar oportunidades de negócio.
                  Utilização de ferramenta de ETL Pentaho Data Integration para otimizar processos de BI.
                  Criação de consultas em SQL Server para obter dados a fim de apoiar a tomada de decisão pela equipe comercial.
@@ -11,8 +10,8 @@
 - title: Estágio em Infraestrutura de Redes, Tribunal Regional Eleitoral de Goiás
   from: 2019
   to: 2019
-  description: - "Administração de proxy squid3, servidor de arquivos e active directory."
-               - "Configuração de firewall de rede em equipamentos SonicWall e Checkpoint."
-               - "Atendimento de chamados relacionados à rede de computadores do tribunal, cartórios e zonas eleitorais."
-               - "Acompanhamento de disponibilidade de links de internet do tribunal e zonas eleitorais do interior do estado."
-               - "Configuração de equipamentos switch de 24 e 48 portas."
+  description:  Administração de proxy squid3, servidor de arquivos e active directory.
+                Configuração de firewall de rede em equipamentos SonicWall e Checkpoint.
+                Atendimento de chamados relacionados à rede de computadores do tribunal, cartórios e zonas eleitorais.
+                Acompanhamento de disponibilidade de links de internet do tribunal e zonas eleitorais do interior do estado.
+                Configuração de equipamentos switch de 24 e 48 portas.
