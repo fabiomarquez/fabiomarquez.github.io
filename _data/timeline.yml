@@ -1,17 +1,17 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Estágio em Business Intelligence, Syngenta Crop Protection
+  from: 2020
+  to: present
+  description: Suporte à estratégia de marketing da Unidade Comercial Cerrado.
+               Desenvolvimento de Dashboards em Qlik Sense e Power BI com objetivo de acompanhar as estratégias da empresa e identificar oportunidades de negócio.
+               Utilização de ferramenta de ETL Pentaho Data Integration para otimizar processos de BI.
+               Criação de consultas em SQL Server para obter dados a fim de apoiar a tomada de decisão pela equipe comercial.
+               Manutenção e desenvolvimento de rotinas e análises utilizando Microsoft Excel.
 
-- title: Software Engineer, Google, UK
+- title: Estágio em Infraestrutura de Redes, Tribunal Regional Eleitoral de Goiás
   from: 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Administração de proxy squid3, servidor de arquivos e active directory.
+               Configuração de firewall de rede em equipamentos SonicWall e Checkpoint.
+               Atendimento de chamados relacionados à rede de computadores do tribunal, cartórios e zonas eleitorais.
+               Acompanhamento de disponibilidade de links de internet do tribunal e zonas eleitorais do interior do estado.
+               Configuração de equipamentos switch de 24 e 48 portas.
